@@ -1,6 +1,4 @@
 # Bitcoin Whitepaper
-
-
 The Bitcoin Whitepaper was published on 31 Oct 2019 by Satoshi Nakamoto.
 
 On 18 August 2008, the domain name bitcoin.org was registered.
