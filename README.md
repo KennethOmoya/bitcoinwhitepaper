@@ -1,7 +1,7 @@
 # Bitcoin Whitepaper
 The Bitcoin Whitepaper titled **_Bitcoin: A Peer-to-Peer Electronic Cash System_** was published on **_31 October 2008_** by Satoshi Nakamoto.
 
-The paper detailed methods of using a peer-to-peer network to generate what is described as **_"a system for electronic transactions without relying on trust"_**
+The paper details methods of using a peer-to-peer network to generate what is described as **_"a system for electronic transactions without relying on trust"_**
 
 Prior to that, on the 18 August 2008, the domain name bitcoin.org was registered.
 
